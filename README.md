@@ -1,6 +1,6 @@
 # Recent Advances in AI4CODE.
 
-A niche collection of AI4Code papers, this list will focus mostly on the papers that use pre-trained models and deep learning techniques for programming languages processing. There are also other collections that cover a wider range of AI4Code papers, such as:
+A niche collection of AI4Code papers and other resources (dataset, tutorial, etc.), this list will focus mostly on the papers that use pre-trained models and deep learning techniques for programming languages processing. There are also other collections that cover a wider range of AI4Code papers, such as:
 - https://ml4code.github.io/
 - https://github.com/src-d/awesome-machine-learning-on-source-code (Due to the lack of maintainers, this collection may be obsolete).
 ## Academic Conferences that usually published AI4Code papers:
