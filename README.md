@@ -43,6 +43,7 @@ Paras Jain, Ajay Jain, Tianjun Zhang, Pieter Abbeel, Joseph E. Gonzalez, Ion Sto
 - [CodeTrans: Towards Cracking the Language of Silicone’s Code Through Self-Supervised Deep Learning and High Performance Computing](https://arxiv.org/abs/2104.02443), Ahmed Elnaggar, Wei Ding, Llion Jones, Tom Gibbs, Tamas Feher, Christoph Angerer, Silvia Severini, Florian Matthes, Burkhard Rost (arXiv 2021/04( (***CodeTrans***).
 - [Disentangled Code Representation Learning for Multiple Programming Languages](https://aclanthology.org/2021.findings-acl.391.pdf),Jingfeng Zhang, Haiwen Hong, Yin Zhang, Yao Wan, Ye Liu, Yulei Sui (ACL-Fingings 2021) (***CODEDISEN***).
 - [SYNCOBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation](https://arxiv.org/pdf/2108.04556v3.pdf), Xin Wang, Yasheng Wang, Fei Mi, Pingyi Zhou, Yao Wan, Xiao Liu, Li Li, Hao Wu, Jin Liu, Xin Jiang, (arXiv 2021) (***SYNCOBERT***).
+- [TreeBERT: A Tree-Based Pre-Trained Model for Programming Language](https://arxiv.org/abs/2105.12485), Xue Jiang, Zhuoran Zheng, Chen Lyu, Liang Li, Lei Lyu, (UAI 2021) (***TreeBERT***).
 
 
 ## Dataset and Benchmark
