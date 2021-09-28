@@ -21,6 +21,7 @@ The emphasis is on desigining novel neural network architectures to process code
 The emphasis is on applying NLP techniques for code, and the evaluation is primarily on running the models on known benchmark datasets; unique tasks are rarely introduced.
 - [Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)
 - [North American Chapter of the Association for Computational Linguistics (NAACL)](https://aclanthology.org/venues/naacl/)
+- [Annual Meeting of the Association for Computational Linguistics](https://2021.aclweb.org/)
 
 
 ## Pretrained Models for Code
@@ -44,7 +45,7 @@ Paras Jain, Ajay Jain, Tianjun Zhang, Pieter Abbeel, Joseph E. Gonzalez, Ion Sto
 - [Disentangled Code Representation Learning for Multiple Programming Languages](https://aclanthology.org/2021.findings-acl.391.pdf),Jingfeng Zhang, Haiwen Hong, Yin Zhang, Yao Wan, Ye Liu, Yulei Sui (ACL-Fingings 2021) (***CODEDISEN***).
 - [SYNCOBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation](https://arxiv.org/pdf/2108.04556v3.pdf), Xin Wang, Yasheng Wang, Fei Mi, Pingyi Zhou, Yao Wan, Xiao Liu, Li Li, Hao Wu, Jin Liu, Xin Jiang, (arXiv 2021) (***SYNCOBERT***).
 - [TreeBERT: A Tree-Based Pre-Trained Model for Programming Language](https://arxiv.org/abs/2105.12485), Xue Jiang, Zhuoran Zheng, Chen Lyu, Liang Li, Lei Lyu, (UAI 2021) (***TreeBERT***).
-
+- [Empirical Study of Transformers for Source Code](https://arxiv.org/abs/2010.07987), Nadezhda Chirkova, Sergey Troshin (ESEC/FSE 2021).
 
 ## Dataset and Benchmark
 - [CodeSearchNet Challenge](https://github.com/github/CodeSearchNet).
@@ -57,6 +58,8 @@ Paras Jain, Ajay Jain, Tianjun Zhang, Pieter Abbeel, Joseph E. Gonzalez, Ion Sto
 - [Google Code Jam](https://github.com/Jur1cek/gcj-dataset).
 
 ## Talk and Tutorial
-- [How Facebook use Machine Learning to increase developer's productivity](https://www.youtube.com/watch?v=S7VJzAhzPTU).
+- [How Facebook uses Machine Learning to increase developer's productivity](https://www.youtube.com/watch?v=S7VJzAhzPTU).
 - [Machine Programming at Intel](https://www.youtube.com/watch?v=JMBEmUMSo8M).
 - [ETH Zurich Workshop on Software Correctness and Reliability](https://www.youtube.com/channel/UCNDScEU0cJlOoWeqvg11hDw).
+- [Workshop on Natural Language Processing for Programming](https://nlp4prog.github.io/2021/)
+- [KDD Workshop on Programming Language Processing](https://nlp4prog.github.io/2021/)
