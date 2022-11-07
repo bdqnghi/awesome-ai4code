@@ -21,7 +21,7 @@ The emphasis is on desigining novel neural network architectures to process code
 The emphasis is on applying NLP techniques for code, and the evaluation is primarily on running the models on known benchmark datasets; unique tasks are rarely introduced.
 - [Empirical Methods in Natural Language Processing (EMNLP)](https://aclanthology.org/venues/emnlp/)
 - [North American Chapter of the Association for Computational Linguistics (NAACL)](https://aclanthology.org/venues/naacl/)
-- [Annual Meeting of the Association for Computational Linguistics](https://2021.aclweb.org/)
+- [Annual Meeting of the Association for Computational Linguistics (ACL)](https://2021.aclweb.org/)
 
 
 ## Pretrained Models for Code
