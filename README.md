@@ -23,7 +23,19 @@ The emphasis is on applying NLP techniques for code, and the evaluation is prima
 - [North American Chapter of the Association for Computational Linguistics (NAACL)](https://aclanthology.org/venues/naacl/)
 - [Annual Meeting of the Association for Computational Linguistics (ACL)](https://2021.aclweb.org/)
 
+## Evaluate CodeLLMs
+- [Large Language Models of Code Fail at Completing Code with Potential Bugs](https://arxiv.org/pdf/2306.03438.pdf) - Tuan Dinh, Jinman Zhao, Samson Tan, Renato Negrinho, Leonard Lausen, Sheng Zha, George Karypis.
+- [Large Language Models Meet NL2Code: A Survey](https://arxiv.org/pdf/2212.09420.pdf) - Daoguang Zan, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang, Jian-Guang Lou (EMNLP 2023)
 
+## CodeLLMs for Code Generation
+- [SKCODER: A Sketch-based Approach for Automatic Code Generation)(https://arxiv.org/pdf/2302.06144.pdf) - Jia Allen Li, Yongmin Li, Ge Li, Zhi Jin, Yiyang Hao, Xing Hu
+
+## Repo-Level CodeLLMs
+- [RepoFusion: Training Code Models to Understand Your Repository](https://arxiv.org/pdf/2306.10998.pdf) - Disha Shrivastava, Denis Kocetkov, Harm de Vries, Dzmitry Bahdanau, Torsten Scholak
+
+## Benchmarking CodeLLMs
+- [XCODEEVAL: An Execution-based Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval](https://arxiv.org/pdf/2303.03004v3.pdf) - Mohammad Abdullah Matin Khan, M Saiful Bari, Xuan Long Do, Weishi Wang, Md Rizwan Parvez, Shafiq Joty
+- 
 ## Pretrained Models for Code
 - [CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation](https://arxiv.org/pdf/2109.00859.pdf) - Yue Wang, Weishi Wang, Shafiq Joty, Steven C.H. Hoi (EMNLP 2021) (***CodeT5***).  
 - [CodeBERT:A Pre-Trained Model for Programming and Natural Language](https://arxiv.org/pdf/2002.08155.pdf) - Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou (EMNLP 2020 Findings) (***CodeBERT***).
