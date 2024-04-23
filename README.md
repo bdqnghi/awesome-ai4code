@@ -1,9 +1,9 @@
-# A Collection of Tools, Papers and Recent Trendings in AI for Software (AI4Code, AI4Code).
+# A Collection of Tools, Papers and Recent Trendings in AI for Software (AI4SE, AI4Code).
 
-A niche collection of AI4Code papers and other resources (dataset, tutorial, etc.), this list will focus mostly on the papers that use pre-trained models and deep learning techniques for programming languages processing. There are also other collections that cover a wider range of AI4Code papers, such as:
+A niche collection of AI4Code papers and other resources (dataset, tutorial, etc.). There are also other collections that cover a wider range of AI4Code papers, such as:
 - https://ml4code.github.io/
 - https://github.com/src-d/awesome-machine-learning-on-source-code (Due to the lack of maintainers, this collection may be obsolete).
-## Academic Conferences that usually published AI4Code papers:
+## Academic Conferences 
 #### Software Enginnering/Programming Languages
 The emphasis is on combining program analysis and deep learning to solve novel software engineering/programming languages task. In most cases, strong empirical results are required. Typically, new datasets are usually curated.
 - [Interational Conference on Software Engineering (ICSE)](http://www.icse-conferences.org/)
