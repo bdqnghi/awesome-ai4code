@@ -1,4 +1,4 @@
-# Recent Advances in AI4CODE.
+# A Collection of Tools, Papers and Recent Trendings in AI for Software (AI4Code, AI4Code).
 
 A niche collection of AI4Code papers and other resources (dataset, tutorial, etc.), this list will focus mostly on the papers that use pre-trained models and deep learning techniques for programming languages processing. There are also other collections that cover a wider range of AI4Code papers, such as:
 - https://ml4code.github.io/
